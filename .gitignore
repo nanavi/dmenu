@@ -4,4 +4,4 @@ dmenu.c.*
 dmenu
 stest
 *.o
-*.diff
+/*.diff
